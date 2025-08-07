@@ -11,7 +11,7 @@ It powers the NGU51m ecosystem — focused on Web3 gaming and long-term communit
 
 ## 🔗 Links
 - *Contract Address:* 0x10B1461123ef64Ae75D0FFf00A8594cbD9Cc3290
-- ![G51 Logo](https://raw.githubusercontent.com/NGUak47/G51-TOKEN-INFO/main/NGU_G51_Logo_200x200.png)
+- *![G51 Logo](https://github.com/NGUak47/G51-TOKEN-INFO/blob/main/NGU-TOKEN-INFO.png?raw=true)
 - ![NGU-TOKEN-INFO](https://github.com/NGUak47/G51-TOKEN-INFO/blob/main/NGU-TOKEN-INFO.png)
 
 ## 📈 Exchanges & Listings
